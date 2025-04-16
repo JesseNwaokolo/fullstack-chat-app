@@ -33,7 +33,7 @@ function SettingsPage() {
       <div className="mt-10 bg-red-50 mx-auto w-fit text-black">
         <p className="border-l-4 p-1 border-red-300 rounded-l text-xs font-mono italic">
           Please send images and update profile picture with images less than
-          20kb else it won't work
+          80kb else it won't work
         </p>
       </div>
     </div>
